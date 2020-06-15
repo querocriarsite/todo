@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ComponentSettings" COMPONENT_TEMPLATE_KEY="templates/component/{{componentName}}.tsx.mustache" SASS_TEMPLATE_KEY="templates/component/_{{componentName}}.scss.mustache" SPEC_TEMPLATE_KEY="templates/component/{{componentName}}.spec.tsx.mustache" STORY_TEMPLATE_KEY="templates/component/{{componentName}}.story.tsx.mustache" MD_TEMPLATE_KEY="templates/component/{{componentName}}.md.mustache" MD_CHECKBOX_KEY="false" STORY_CHECKBOX_KEY="false" SCSS_CHECKBOX_KEY="false" SPEC_CHECKBOX_KEY="false" />
+  <component name="ReducerSettings" ACTION_TEMPLATE="templates/reducer/actions.ts.mustache" INDEX_TEMPLATE="templates/reducer/index.ts.mustache" ACTION_TYPES_TEMPLATE="templates/reducer/action-types.ts.mustache" TYPES_TEMPLATE="templates/reducer/types.ts.mustache" />
+</project>
