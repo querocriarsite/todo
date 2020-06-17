@@ -1,3 +1,5 @@
+<a href="./LICENSE">![GitHub](https://img.shields.io/github/license/querocriarsite/todo?style=plastic)</a>
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
