@@ -1,11 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cf3cdcc0-7999-4450-ab1e-922290dc8613" name="Default Changelist" comment="" />
+    <list default="true" id="cf3cdcc0-7999-4450-ab1e-922290dc8613" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="JsBowerSettings">
     <node-interpreter value="project" />
@@ -19,6 +27,7 @@
     <auto-save>true</auto-save>
   </component>
   <component name="ProjectId" id="1dMcPQlMiP4PNl2IpiLkDs3ToFc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -26,10 +35,11 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="yarn" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -52,7 +62,7 @@
       <workItem from="1592242915346" duration="432000" />
       <workItem from="1592243357340" duration="171000" />
       <workItem from="1592243537461" duration="224000" />
-      <workItem from="1592243771614" duration="776000" />
+      <workItem from="1592243771614" duration="2896000" />
     </task>
     <servers />
   </component>
@@ -68,9 +78,21 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="1166" y="251" key="#com.intellij.ide.scriptingContext.ui.PerFileMappingsDialogWrapper/0.0.1920.1050@0.0.1920.1050" timestamp="1592242603297" />
-    <state x="926" y="116" key="SettingsEditor" timestamp="1592243755095">
+    <state x="758" y="144" key="RollbackChangesDialog" timestamp="1592272787151">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="926" y="116" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1592243755095" />
+    <state x="758" y="144" key="RollbackChangesDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1592272787151" />
+    <state x="609" y="130" key="SettingsEditor" timestamp="1592272967060">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="609" y="130" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1592272967060" />
+    <state x="671" y="130" width="577" height="789" key="find.popup" timestamp="1592272478745">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="671" y="130" width="577" height="789" key="find.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1592272478745" />
+    <state x="623" y="228" key="search.everywhere.popup" timestamp="1592272789133">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="623" y="228" key="search.everywhere.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1592272789133" />
   </component>
 </project>

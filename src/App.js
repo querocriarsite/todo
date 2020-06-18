@@ -55,7 +55,7 @@ const App = () => {
             {list.map((item, index) => (
                 <Item key={index}>
                     {item.done &&
-                    <del>{item.title}</del>
+                        <del>{item.title}</del>
                     }
                     {!item.done &&
                     item.title
