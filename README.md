@@ -1,4 +1,14 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<a href="./LICENSE">![GitHub](https://img.shields.io/github/license/querocriarsite/todo?style=plastic)</a>
+
+## Features
+
+This front-end features the latest tools and practices in web development!
+
+- ⚛ **React** — A library to build user interfaces
+- ⚛ **Redux** — State management (includes Saga and Persist)
+- 🔥 **Axios** — API requests
+- 💅 **CSS** — styled-components
+- 💖 **Lint** — ESlint/Prettier/Editor Config
 
 ## Features
 
