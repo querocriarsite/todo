@@ -1,6 +1,6 @@
 {
   "name": "projeto-01",
-  "homepage": "https://querocriarsite.com/projetos/todo/",
+  "homepage": "/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
