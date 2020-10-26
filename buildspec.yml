@@ -1,0 +1,25 @@
+version: 0.2
+environment_variables:
+    plaintext:
+        S3_BUCKET: "output-teste/website1"
+phases:
+    install:
+        runtime-version:
+            nodejs: 12
+        commands:
+            - npm install
+    build:
+        commands:
+            - echo Build started on `date`
+            - npm install
+            - npm run build
+    post_build:
+         commands:
+            - aws s3 rm s3://${S3_BUCKET} --recursive
+            - aws s3 cp dist/ s3://${S3_BUCKET} --recursive
+            - echo Build completed on `date`
+artifacts:
+    files:
+        - '**/*'
+    base-directory: 'dist*'
+    discard-paths: yes
