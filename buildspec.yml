@@ -1,7 +1,4 @@
 version: 0.2
-environment_variables:
-    plaintext:
-        S3_BUCKET: "output-teste/website1"
 phases:
     install:
         runtime-version:
@@ -10,14 +7,10 @@ phases:
             - npm install
     build:
         commands:
-            - echo Build started on `date`
-            - npm install
-            - npm run build
+            - npm run-script build
     post_build:
          commands:
-            - aws s3 rm s3://${S3_BUCKET} --recursive
-            - aws s3 cp build/ s3://${S3_BUCKET} --recursive
-            - echo Build completed on `date`
+            - aws s3 cp build s3://output-teste --recursive =acl public-read
 artifacts:
     files:
         - '**/*'
