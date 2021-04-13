@@ -31,10 +31,6 @@ body {
     margin: auto;
 }
 
-li {
-    word-break: break-word;
-}
-
 button {
     cursor: pointer;
 }
