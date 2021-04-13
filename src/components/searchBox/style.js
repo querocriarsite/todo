@@ -32,6 +32,7 @@ export const ButtonTodo = styled.button`
 `;
 
 export const Item = styled.li`
+    word-break: break-word;
     display: flex;
     flex-wrap: wrap;
     width: 100%;
