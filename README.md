@@ -5,17 +5,6 @@
 This front-end features the latest tools and practices in web development!
 
 - ⚛ **React** — A library to build user interfaces
-- ⚛ **Redux** — State management (includes Saga and Persist)
-- 🔥 **Axios** — API requests
-- 💅 **CSS** — styled-components
-- 💖 **Lint** — ESlint/Prettier/Editor Config
-
-## Features
-
-This front-end features the latest tools and practices in web development!
-
-- ⚛ **React** — A library to build user interfaces
-- ⚛ **Redux** — State management (includes Saga and Persist)
 - 🔥 **Axios** — API requests
 - 💅 **CSS** — styled-components
 - 💖 **Lint** — ESlint/Prettier/Editor Config
